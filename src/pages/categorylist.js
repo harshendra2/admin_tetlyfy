@@ -7,7 +7,7 @@ import "bootstrap";
 import { MDBTable, MDBTableHead, MDBTableBody } from "mdb-react-ui-kit";
 import { ToastContainer, toast } from "react-toastify";
 import { categorylist } from "../services/Apis";
-import { deletecategory } from "../services/Apis";
+import { deletecategory } from "../services/Apis"
 import { Link } from "react-router-dom";
 
 function Categorylist() {
